@@ -1,2 +1,2 @@
 # Fikri-Ahmad-Zein-CV
-Buka dengan Visual Studio Code atau dengan tools pemograman yang lain
+Buka dengan Visual Studio Code atau tools pemograman yang lain
